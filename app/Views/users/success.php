@@ -1,0 +1,1 @@
+News User created successfully.
